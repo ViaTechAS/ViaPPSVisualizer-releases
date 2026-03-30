@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.25.11.0</version>
-    <url>https://github.com/ViaTech/ViaPPSVisualizer-releases/releases/download/v1.25.11.0/Setup_ViaPPSVisualizer_1.25.11.0.exe</url>
+    <version>1.25.12.0</version>
+    <url>https://github.com/ViaTech/ViaPPSVisualizer-releases/releases/download/v1.25.12.0/Setup_ViaPPSVisualizer_1.25.12.0.exe</url>
     <changelog>https://github.com/ViaTech/ViaPPSVisualizer-releases/blob/main/CHANGELOG.md</changelog>
     <mandatory>false</mandatory>
 </item>
